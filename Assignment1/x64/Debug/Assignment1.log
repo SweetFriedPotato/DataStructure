@@ -1,0 +1,3 @@
+﻿  hanoi.c
+C:\자료구조지희\Assignment1\hanoi.c(22,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Assignment1.vcxproj -> C:\자료구조지희\Assignment1\x64\Debug\Assignment1.exe

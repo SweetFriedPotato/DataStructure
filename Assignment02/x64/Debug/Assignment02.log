@@ -1,0 +1,6 @@
+﻿  dummy.c
+C:\자료구조지희\Assignment02\dummy.c(47,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\자료구조지희\Assignment02\dummy.c(49,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\자료구조지희\Assignment02\dummy.c(51,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\자료구조지희\Assignment02\dummy.c(54,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Assignment02.vcxproj -> C:\자료구조지희\Assignment02\x64\Debug\Assignment02.exe
